@@ -2,7 +2,10 @@ def main():
     print(suckcock())
 
     my_dick = penis(10)
-    print(my_dick.get_cock())
+    print('me:', my_dick.get_cock())
+
+    your_moms_dick = penis(1)
+    print('your mom:', your_moms_dick.get_cock())
 
 def suckcock():
     return 'cum'
